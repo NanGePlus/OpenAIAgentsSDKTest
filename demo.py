@@ -4,6 +4,7 @@ from openai import AsyncOpenAI
 from pydantic import BaseModel
 
 
+# Author:@南哥AGI研习社 (B站 or YouTube 搜索“南哥AGI研习社”)
 
 # 禁用追踪功能
 set_tracing_disabled(disabled=True)
