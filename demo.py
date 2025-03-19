@@ -11,7 +11,7 @@ set_tracing_disabled(disabled=True)
 
 # 创建一个异步 OpenAI 客户端实例，配置 API 密钥和基础 URL
 openai_client = AsyncOpenAI(
-    api_key="sk-aR2Y17PuOKtS7l1H2qPbrKSKPswr047o6AMvCG6g3EfViPku",
+    api_key="sk-aR2Y17PuOKtS7l1H2qPbr47o6AMvCG6g3EfViPku",
     base_url="https://nangeai.top/v1"
 )
 
