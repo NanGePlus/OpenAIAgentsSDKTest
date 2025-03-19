@@ -1,6 +1,7 @@
 # 1、项目介绍
 ## 1.1、本次分享介绍    
-主要内容:OpenAI Agents SDK基础功能测试,支持多种类型的大模型                                 
+主要内容:OpenAI Agents SDK基础功能测试,支持多种类型的大模型             
+https://youtu.be/Ft5kiR8dx88         
 
 ## 1.2 介绍 
 OpenAI 于 2025 年 3 月 11 日正式发布了开源的 OpenAI Agents SDK，这是一个专为构建智能代理（AI Agents）的轻量级且生产就绪的开发工具包                  
